@@ -145,7 +145,7 @@ function App() {
             </div>
           </div>
           <button
-            className='nline-block  imy-3 mx-14 px-5 font-bold text-2xl bg-blue-600 rounded-lg cursor-pointer p-1'
+            className='inline-block my-3 mx-14 px-5 font-bold text-2xl bg-blue-600 rounded-lg cursor-pointer p-1'
             onClick={genratedpass}
           >Genrate Password
           </button>
